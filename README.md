@@ -12,6 +12,6 @@ If the error ``"requests.exceptions.ProxyError: HTTPSConnectionPool(host='www.in
 "`` Arrives. This  error means there are not enough proxys and instagram has blacklisted that specific proxy due to overuse or the proxy being public and therfore other people have used it and instagram have blocked it due to their use. The program will pick proxys at complete random. A large proxy list (GBs) will cause the program to run slowly.
 ### recomended proxys 500-1000 
 ### max proxys: 10k
-
+ 
 # Disclamer
 THIS SOFTWARE IS FOR EDUCATIONAL USE ONLY THE OWNER TAKES NO RESPONSIBILITY FOR MALICIOUS USE OF THIS SOFTWARE OR MALICIOUS USE OF SOURCE-CODE
